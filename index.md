@@ -412,5 +412,5 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
- The setup instructions for the Data Carpentry Social Science workshops (with R) can be found <a href = "https://edcarp.github.io/2022-10-17-Data-Carpentry-Social-Science/SetUp"> here</a>
+ The setup instructions for the Data Carpentry Social Science workshops (with R) can be found <a href = "https://edcarp.github.io/2022-10-17-Data-Carpentry-Social-Science/SetUp"> here.</a>
  </p>
